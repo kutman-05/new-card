@@ -1,0 +1,20 @@
+.Burger {
+  display: flex;
+  flex-direction: column;
+
+  align-items: start;
+  background: rgb(151, 93, 93);
+  transition: 2s;
+  width: 25vh;
+  height: 88vh;
+  border-radius: 0 10px 10px 10px;
+  padding: 5px;
+  margin-top: -50px;
+  margin-left: -6pc;
+  gap: 40px;
+}
+.Burger a {
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
+}
